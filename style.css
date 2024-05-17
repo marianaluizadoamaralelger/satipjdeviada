@@ -57,7 +57,7 @@ body {
 
 .ativo{
     background-color:var(--botao-inativo) ;
-    border-bottom: 4px solid var(--verde);
+    border-bottom: 4px solid var(--vermelho);
 }
 
 .abas-textos{
