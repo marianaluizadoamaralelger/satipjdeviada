@@ -54,9 +54,10 @@ body {
 .botoes{
     display: block;
 }
+
 .ativo{
     background-color:var(--botao-inativo) ;
-    border-bottom;4px solid var(--verde);
+    border-bottom: 4px solid var(--verde);
 }
 
 @media screen and (min-width: 768px){
